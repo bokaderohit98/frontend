@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          There is nothing like REACT!
+          First AWS Deployment
         </p>
         <a
           className="App-link"
