@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          There is nothing like REACT
+          There is nothing like REACT!
         </p>
         <a
           className="App-link"
